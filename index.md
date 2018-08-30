@@ -1,3 +1,10 @@
+# Tung's first CS193 Lab
+
+## Favorite things about Purdue CS193
+* Awesome TA
+* Learn about Git and Github
+* Learn about Linux command line
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
